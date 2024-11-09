@@ -1,0 +1,5 @@
+text tests := "hola"
+num test1 := 10a;
+num test2 := 20;
+test3 := test1+test2*3/4(5+2);
+bucle(test3<21){}
